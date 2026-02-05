@@ -1,3 +1,4 @@
+--insertar en la tabla valores
 INSERT INTO users  (id_user,name,surname) VALUES ('7', 'Valery', 'Rueda');
 
 INSERT INTO users  (name,surname) VALUES ('Lina', 'Rg');
